@@ -1,0 +1,25 @@
+@"
+AUTOVELOCE - CONTRATTO DI NOLEGGIO STANDARD
+Condizioni generali e tariffe
+
+DURATA E COSTI
+Noleggio giornaliero: 50 euro al giorno per auto categoria Economy.
+Noleggio giornaliero: 80 euro al giorno per auto categoria Comfort.
+Noleggio giornaliero: 120 euro al giorno per auto categoria Premium.
+Cauzione: 500 euro per Economy, 1000 euro per Comfort, 2000 euro per Premium.
+
+REQUISITI DEL CONDUCENTE
+Eta minima: 21 anni per Economy e Comfort, 25 anni per Premium.
+Patente di guida valida da almeno 2 anni.
+Carta di credito intestata al conducente obbligatoria.
+
+CARBURANTE
+Il veicolo viene consegnato con il pieno e deve essere riconsegnato con il pieno.
+In caso contrario, verra addebitato un costo di 2 euro al litro piu 15 euro di servizio.
+
+RICONSEGNA
+La riconsegna deve avvenire entro l'orario indicato nel contratto.
+Ritardo fino a 1 ora: nessun costo aggiuntivo.
+Ritardo da 1 a 3 ore: 30 euro di penale.
+Ritardo oltre 3 ore: addebito di una giornata intera di noleggio.
+"@ | Out-File -FilePath "data\SFP100.txt" -Encoding utf8

@@ -1,0 +1,24 @@
+@"
+AUTOVELOCE - POLIZZA ASSICURATIVA E GESTIONE DANNI
+Coperture, franchigie e procedure in caso di incidente
+
+COPERTURE BASE
+Responsabilita civile: inclusa in tutti i noleggi.
+Furto e incendio: inclusa per categorie Comfort e Premium.
+Danni al veicolo: inclusa con franchigia di 1000 euro per Economy, 500 euro per Comfort, 0 euro per Premium.
+
+COPERTURE OPZIONALI
+Kasko completa: 15 euro al giorno. Azzera la franchigia sui danni.
+Protezione pneumatici e cristalli: 8 euro al giorno.
+Conducente aggiuntivo: 10 euro al giorno.
+
+PROCEDURA IN CASO DI INCIDENTE
+1. Fermarsi in un luogo sicuro e chiamare il 112 se ci sono feriti.
+2. Compilare il modulo di constatazione amichevole con l'altro conducente.
+3. Contattare AutoVeloce al numero 800 123 456 entro 24 ore.
+4. Non lasciare il veicolo incustodito senza autorizzazione.
+
+MULTE E INFRAZIONI
+Le multe sono a carico del conducente.
+AutoVeloce addebita 30 euro di gestione per ogni multa notificata.
+"@ | Out-File -FilePath "data\SFP200.txt" -Encoding utf8
